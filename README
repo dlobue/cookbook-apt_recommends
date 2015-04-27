@@ -1,0 +1,4 @@
+
+configure APT not to install recommended or suggested packages by default -
+they are not necessary nor welcome on production servers.
+
