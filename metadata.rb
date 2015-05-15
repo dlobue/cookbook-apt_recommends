@@ -1,3 +1,4 @@
+name             "apt_recommend"
 maintainer       "Dominic LoBue"
 maintainer_email "dominic.lobue@gmail.com"
 license          "Apache 2.0"
